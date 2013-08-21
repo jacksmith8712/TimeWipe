@@ -136,7 +136,7 @@
     NSLog(@"Received Remote Notification");
     NSLog(@"%@", userInfo.description);
     
-    NSDictionary *message = [userInfo objectForKey:@"message"];
+//    NSDictionary *message = [userInfo objectForKey:@"message"];
     
 }
 
